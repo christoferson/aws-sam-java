@@ -1,2 +1,18 @@
-# aws-sam-java
-AWS SAM Java
+# AWS Serverless Application Model (SAM) in Java 11
+
+## sam-java-basic
+
+Basic project with 1 Lambda Function behind an Api Gateway
+
+## sam-java-rest
+
+Project with individual Lambda Functions for REST service behind an Api Gateway
+
+# Todo
+
+- [ ] Implement Stage for Dev,Staging,Production
+
+- [ ] Implement Layers
+
+- [ ] Implement Lambda Versions/Alias
+
