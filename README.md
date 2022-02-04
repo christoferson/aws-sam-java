@@ -4,9 +4,11 @@
 
 Basic project with 1 Lambda Function behind an Api Gateway
 
-## sam-java-rest
+## 002 sam-java-rest
 
 Project with individual Lambda Functions for REST service behind an Api Gateway
+
+Layer - Does not use later, each unique CodeURI will create a separate archive to upload.
 
 # Todo
 
